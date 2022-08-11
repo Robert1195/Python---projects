@@ -28,7 +28,7 @@ One files is needed to run the program :
 ```bash
   1. Password_generator.py
 ```
-After downloading these one filee, 
+After downloading these one file, 
   run windows powershell or cmd and use the command "python Password_generator.py"
 
 # Quiz
@@ -40,7 +40,7 @@ Two files are needed to run the program :
 
 ```bash
   1. Quiz.py - main program
-  2. main.json - file with contains questions
+  2. main.json - the file containing the questions
 ```
   After downloading these two files, 
   run windows powershell or cmd and use the command "python Quiz.py"
