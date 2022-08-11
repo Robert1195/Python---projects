@@ -1,0 +1,83 @@
+[
+  {
+    "pytanie": "W którym roku pojawił się Python",
+    "a": 1986,
+    "b": 1991,
+    "c": 1995,
+    "d": 2000,
+    "prawidłowa_odpowiedź": "b",
+    "kategoria": "technologia"
+  },
+  {
+    "pytanie": "Znakiem towarowym której firmy jest nazwa Walkman ?",
+    "a": "Philips",
+    "b": "Canon",
+    "c": "Sony",
+    "d": "Creative",
+    "prawidłowa_odpowiedź": "c",
+    "kategoria": "technologia"
+  },
+  {
+    "pytanie": "Polską odpowiedzią na Nintendo Famicon był?",
+    "a": "Pegasus",
+    "b": "Rambo",
+    "c": "NES",
+    "d": "Kurnik",
+    "prawidłowa_odpowiedź": "a",
+    "kategoria": "technologia"
+  },
+  {
+    "pytanie": "Cieśnina Gibraltarska znajduje się pomiędzy",
+    "a": "Portugalią i Marokiem",
+    "b": "Hiszpanią i Marokiem",
+    "c": "Francją i Wielką Brytanią",
+    "d": "Grecją i Turcją",
+    "prawidłowa_odpowiedź": "b",
+    "kategoria": "nauka"
+  },
+  {
+    "pytanie": "Którą planetą od Słońca jest Ziemia",
+    "a": 1,
+    "b": 2,
+    "c": 3,
+    "d": 4,
+    "prawidłowa_odpowiedź": "c",
+    "kategoria": "nauka"
+  },
+  {
+    "pytanie": "Ile, w przybliżeniu wynosi odległość Ziemi od Księżyca w km",
+    "a": 325000,
+    "b": 384000,
+    "c": 422000,
+    "d": 475000,
+    "prawidłowa_odpowiedź": "b",
+    "kategoria": "nauka"
+  },
+  {
+    "pytanie": "Który aktor jaki pierwszy wcielił się w role Jamesa Bonda",
+    "a": "Sean Connery",
+    "b": "Roger Moore",
+    "c": "Timothy Dalton",
+    "d": "Pierce Brosnan",
+    "prawidłowa_odpowiedź": "a",
+    "kategoria": "film"
+  },
+    {
+    "pytanie": "Kto podkładał głos pod Osła z filmu 'Shrek ?",
+    "a": "Mike Myers",
+    "b": "Will Smith",
+    "c": "Eddie Murphy",
+    "d": "Billy Crystal",
+    "prawidłowa_odpowiedź": "c",
+    "kategoria": "film"
+  },
+    {
+    "pytanie": "Z którego roku jest film Seksmisja",
+    "a": "1984",
+    "b": "1980",
+    "c": "1989",
+    "d": "1977",
+    "prawidłowa_odpowiedź": "a",
+    "kategoria": "film"
+  }
+]
